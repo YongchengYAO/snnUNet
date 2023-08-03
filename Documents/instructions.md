@@ -15,14 +15,14 @@
 
 ## II. Image Processing Pipeline
 
-- `(i) Computing Environment Initialization`:
+- `(i) Computing Environment Initialization`: it will create a virtual environment `CartiMorphToolbox-nnUNet` and install [CartiMorph-nnUNet](https://github.com/YongchengYAO/CartiMorph-nnUNet)
 - `(ii) Raw Image Standardization`: all images will be reoriented to the RAS+ orientation, and resampled to `[x, y, z]`
   - `x (L-R)`: the size of the first dimension of the standardised image – corresponding to the left-**R**ight direction
   - `y (P-A)`: the size of the second dimension of the standardised image – corresponding to the posterior-**A**nterior direction
   - `z (I-S)`: the size of the third dimension of the standardised image – corresponding to the inferior-**S**uperior direction
 - `(iii) Train Model`: this toolkit will preprocess images and train a 3D full-resolution nnUNet model with the specified GPU and training epoch
   - `Training Epoch`: this is the <u>total training epoch</u>
-  - `Train from scratch`
+  - `Train from scratch`: train a new model from the beginning
   - `Continue training`: resume model training from where you leave off
 - **Uncheck (iii) to enable (iii-2) and vice versa**
 - `(iii-2) Deploy/Fine-tune Model`: the toolkit will load the model and set the image size in `(ii)` automatically
