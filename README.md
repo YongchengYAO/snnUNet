@@ -1,4 +1,4 @@
-<div style="text-align:center"> <img src="README.assets/snnUNet_logo.png" alt="snnUNet_logo.jpg" style="zoom:20%;" /> </div>
+<div style="text-align:center"> <img src="README.assets/snnUNet_logo.jpg" alt="snnUNet_logo" style="zoom:20%;" /> </div>
 
 [Python: 3.10] [Matlab: 2022b]
 
