@@ -1,4 +1,4 @@
-<div style="text-align:center"> <img src="README.assets/snnUNet_logo.png" alt="snnUNet_logo" style="zoom:20%;" /> </div>
+<div style="text-align:center"> <img src="README.assets/snnUNet_logo.png" alt="snnUNet_logo.jpg" style="zoom:20%;" /> </div>
 
 [Python: 3.10] [Matlab: 2022b]
 
@@ -18,12 +18,21 @@
 
 ## Features
 
+- Auto-configuration of computing environment
+- Automatic image standardization (reorientation & resampling)
+- Model training, fine-tuning, evaluation, and inference (only support 3D full-resolution nnUNet)
+- Model loading and exportation for easy model sharing
 
+## Step-by-step Instructions
+
+For detailed instructions, please go to the [this page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/instructions.md).
 
 ## FAQ
 
-For some frequently asked questions, please go to the [FAQ page](https://github.com/YongchengYAO/CartiMorph/blob/main/Documents/FAQ.md).
+For some frequently asked questions, please go to the [FAQ page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/FAQ.md).
 
 ## Acknowledgement
 
 - Our work is based on the [nnUNet (v1)](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1)
+- We implemented nnUNet using [CartiMorph-nnUNet](https://github.com/YongchengYAO/CartiMorph-nnUNet)
+
