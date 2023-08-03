@@ -13,7 +13,7 @@
 ## Quick Start
 
 1. Install Conda (Anaconda or Miniconda)
-2. Install snnUNet
+2. Install [snnUNet](https://github.com/YongchengYAO/snnUNet/releases)
 3. Launch snnUNet for model training, fine-tuning, evaluation, and inference
 
 ## Features
