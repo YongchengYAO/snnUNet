@@ -4,7 +4,7 @@
 
 **Hints: Hover on the question marks for tips.**
 
-![Screenshot 2023-08-03 at 23.06.41](instructions.assets/Screenshot 2023-08-03 at 23.06.41.png)
+![snnUNet-preview](instructions.assets/snnUNet-preview.png)
 
 ## I. Computing Environment Configuration
 
