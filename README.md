@@ -6,9 +6,9 @@
 
 **snnUNet** is an interface for the training, fine-tuning, evaluation, and inference of [nnUNet (v1)](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1). It is part of the [**CartiMorph Toolbox**](https://github.com/YongchengYAO/CartiMorph-Toolbox) and the [**CartiMorph**](https://github.com/YongchengYAO/CartiMorph) project. If you use **snnUNet**, please cite the CartiMorph and nnUNet paper.
 
-> Yongcheng Yao, Junru Zhong, Liping Zhang, Sheheryar Khan, Weitian Chen. “CartiMorph: a framework for automated knee articular cartilage morphometrics.” Medical Image Analysis (accepted)
+> Yao Y, Zhong J, Zhang L, Khan S, Chen W. CartiMorph: A framework for automated knee articular cartilage morphometrics. Medical Image Analysis. 2023 Nov 14:103035.
 
-> Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2020). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature Methods, 1-9.
+> Isensee F, Jaeger PF, Kohl SA, Petersen J, Maier-Hein KH. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods. 2021 Feb;18(2):203-11.
 
 ## Quick Start
 
@@ -18,14 +18,14 @@
 
 ## Features
 
-- Auto-configuration of computing environment
+- Auto-configuration of the computing environment
 - Automatic image standardization (reorientation & resampling)
 - Model training, fine-tuning, evaluation, and inference (only support 3D full-resolution nnUNet)
 - Model loading and exportation for easy model sharing
 
 ## Step-by-step Instructions
 
-For detailed instructions, please go to the [this page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/instructions.md).
+For detailed instructions, please go to [this page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/instructions.md).
 
 ## FAQ
 
