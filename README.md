@@ -27,6 +27,10 @@
 
 For detailed instructions, please go to [this page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/instructions.md).
 
+## Known Issues
+
+For some currently identified issues, go to [this page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/knownIssues.md).
+
 ## FAQ
 
 For some frequently asked questions, please go to the [FAQ page](https://github.com/YongchengYAO/snnUNet/blob/main/Documents/FAQ.md).
