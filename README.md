@@ -2,6 +2,8 @@
 
 [Python: 3.10] [Matlab: 2022b]
 
+Latest news: a fatal error has been identified, new release will be updated on 1 July, 2024.
+
 ## Introduction
 
 **snnUNet** is an interface for the training, fine-tuning, evaluation, and inference of [nnUNet (v1)](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1). It is part of the [**CartiMorph Toolbox**](https://github.com/YongchengYAO/CartiMorph-Toolbox) and the [**CartiMorph**](https://github.com/YongchengYAO/CartiMorph) project. If you use **snnUNet**, please cite the CartiMorph and nnUNet paper.
