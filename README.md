@@ -2,7 +2,7 @@
 
 [Python: 3.10] [Matlab: 2022b]
 
-Latest news: a fatal error has been identified, new release will be updated on 1 July, 2024.
+Latest news: release v1.1
 
 ## Introduction
 
